@@ -11,7 +11,7 @@ export const Menu = () => {
         height: '60px',
       }}
     >
-      <Link to="/">Homee</Link>
+      <Link to="/">Home</Link>
       <Link to="/abc">Abc</Link>
     </nav>
   );
